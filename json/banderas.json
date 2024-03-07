@@ -1,0 +1,504 @@
+{
+    "America": [
+        {
+            "id": 1,
+            "name": "Antigua y Barbuda",
+            "alternativeName": "Antigua",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Antigua-y-Barbuda.svg"
+        },
+        {
+            "id": 2,
+            "name": "Argentina",
+            "alternativeName": "Argentina",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Argentina.svg"
+        },
+        {
+            "id": 3,
+            "name": "Bahamas",
+            "alternativeName": "Bahamas",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Bahamas.svg"
+        },
+        {
+            "id": 4,
+            "name": "Barbados",
+            "alternativeName": "Barbados",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Barbados.svg"
+        },
+        {
+            "id": 5,
+            "name": "Belice",
+            "alternativeName": "Belice",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Belice.svg"
+        },
+        {
+            "id": 6,
+            "name": "Bolivia",
+            "alternativeName": "Bolivia",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Bolivia.svg"
+        },
+        { 
+            "id": 7,
+            "name": "Brasil",
+            "alternativeName": "Brasil",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Brasil.svg"
+        },
+        {
+            "id": 8,
+            "name": "Canadá",
+            "alternativeName": "Canadá",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Canada.svg"
+        },
+        {
+            "id": 9,
+            "name": "Chile",
+            "alternativeName": "Chile",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Chile.svg"
+        },
+        {
+            "id": 10,
+            "name": "Colombia",
+            "alternativeName": "Colombia",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Colombia.svg"
+        },
+        {
+            "id": 11,
+            "name": "Costa Rica",
+            "alternativeName": "Costa Rica",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Costa-Rica.svg"
+        },
+        {
+            "id": 12,
+            "name": "Cuba",
+            "alternativeName": "Cuba",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Cuba.svg"
+        },
+        {
+            "id": 13,
+            "name": "Dominica",
+            "alternativeName": "Dominica",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Dominica.svg"
+        },
+        {
+            "id": 14,
+            "name": "Ecuador",
+            "alternativeName": "Ecuador",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Ecuador.svg"
+        },
+        {
+            "id": 15,
+            "name": "El Salvador",
+            "alternativeName": "El Salvador",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-El-Salvador.svg"
+        },
+        {
+            "id": 16,
+            "name": "Estados Unidos",
+            "alternativeName": "EEUU",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Estados-Unidos.svg"
+        },
+        {
+            "id": 17,
+            "name": "Granada",
+            "alternativeName": "Granada",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Granada.svg"
+        },
+        {
+            "id": 18,
+            "name": "Guatemala",
+            "alternativeName": "Guatemala",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Guatemala.svg"
+        },
+        {
+            "id": 19,
+            "name": "Guyana",
+            "alternativeName": "Guyana",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Guyana.svg"
+        },
+        {
+            "id": 20,
+            "name": "Haití",
+            "alternativeName": "Haití",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Haiti.svg"
+        },
+        {
+            "id": 21,
+            "name": "Honduras",
+            "alternativeName": "Honduras",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Honduras.svg"
+        },
+        {
+            "id": 22,
+            "name": "México",
+            "alternativeName": "México",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Mexico.svg"
+        },
+        {
+            "id": 23,
+            "name": "Nicaragua",
+            "alternativeName": "Nicaragua",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Nicaragua.svg"
+        },
+        {
+            "id": 24,
+            "name": "Panamá",
+            "alternativeName": "Panamá",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-panama.svg"
+        },
+        {
+            "id": 25,
+            "name": "Paraguay",
+            "alternativeName": "Paraguay",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Paraguay.svg"
+        },
+        {
+            "id": 26,
+            "name": "Perú",
+            "alternativeName": "Perú",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Peru.svg"
+        },
+        {
+            "id": 27,
+            "name": "República Dominicana",
+            "alternativeName": "República Dominicana",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Republica-Dominicana.svg"
+        },
+        {
+            "id": 28,
+            "name": "San Cristóbal y Nieves",
+            "alternativeName": "San Cristóbal",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-San-Cristobal-y-Nieves.svg"
+        },
+        {
+            "id": 29,
+            "name": "San Vicente y las Granadinas",
+            "alternativeName": "San Vicente",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-San-Vicenete-y-las-Granadinas.svg"
+        },
+        {
+            "id": 30,
+            "name": "Santa Lucía",
+            "alternativeName": "Santa Lucía",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Santa-Lucia.svg"
+        },
+        {
+            "id": 31,
+            "name": "Surinam",
+            "alternativeName": "Surinam",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Surinam.svg"
+        },
+        {
+            "id": 32,
+            "name": "Trinidad y Tobago",
+            "alternativeName": "Trinidad",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Trinidad-y-Tobago.svg"
+        },
+        {
+            "id": 33,
+            "name": "Uruguay",
+            "alternativeName": "Uruguay",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Uruguay.svg"
+        },
+        {
+            "id": 34,
+            "name": "Venezuela",
+            "alternativeName": "Venezuela",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Venezuela.svg"
+        }
+    ],
+    "Asia": [
+        {
+            "id": 35,
+            "name": "Afganistán",
+            "alternativeName": "Afganistán",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Afganistan.svg"
+        },
+        {
+            "id": 36,
+            "name": "Arabia Saudita",
+            "alternativeName": "Arabia Saudi",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Arabia-Saudi.svg"
+        },
+        {
+            "id": 37,
+            "name": "Armenia",
+            "alternativeName": "Armenia",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Armenia.svg"
+        },
+        {
+            "id": 38,
+            "name": "Azerbaiyán",
+            "alternativeName": "Azerbaiyán",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Azerbaiyan.svg"
+        },
+        {
+            "id": "39",
+            "name": "Bangladés",
+            "alternativeName": "Bangladés",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Banglades.svg"
+        },
+        {
+            "id": "40",
+            "name": "Baréin",
+            "alternativeName": "Baréin",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Barein.svg"
+        },
+        {
+            "id": "41",
+            "name": "Birmania",
+            "alternativeName": "Myanmar",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Myanmar.svg"
+        },
+        {
+            "id": "42",
+            "name": "Brunei",
+            "alternativeName": "Brunei",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Brunei.svg"
+        },
+        {
+            "id": "43",
+            "name": "Bután",
+            "alternativeName": "Bután",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Butan.svg"
+        },
+        {
+            "id": "44",
+            "name": "Camboya",
+            "alternativeName": "Camboya",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Camboya.svg"
+        },
+        {
+            "id": "45",
+            "name": "Catar",
+            "alternativeName": "Qatar",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Catar.svg"
+        },
+        {
+            "id": "46",
+            "name": "Chipre",
+            "alternativeName": "Chipre",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Chipre.svg"
+        },
+        {
+            "id": "47",
+            "name": "China",
+            "alternativeName": "China",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-China.svg"
+        },
+        {
+            "id": "48",
+            "name": "Corea del Norte",
+            "alternativeName": "Corea del Norte",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Corea-del-Norte.svg"
+        },
+        {
+            "id": "49",
+            "name": "Corea del Sur",
+            "alternativeName": "Corea del Sur",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Corea-del-Sur.svg"
+        },
+        {
+            "id": "50",
+            "name": "Emiratos Árabes Unidos",
+            "alternativeName": "Emiratos Árabes",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Emiratos-Arabes-Unidos.svg"
+        },
+        {
+            "id": "51",
+            "name": "Filipinas",
+            "alternativeName": "Filipinas",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Filipinas.svg"
+        },
+        {
+            "id": "52",
+            "name": "Georgia",
+            "alternativeName": "Georgia",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Georgia.svg"
+        },
+        {
+            "id": "53",
+            "name": "India",
+            "alternativeName": "India",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-India.svg"
+        },
+        {
+            "id": "54",
+            "name": "Indonesia",
+            "alternativeName": "Indonesia",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Indonesia.svg"
+        },
+        {
+            "id": "55",
+            "name": "Irak",
+            "alternativeName": "irak",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Irak.svg"
+        },
+        {
+            "id": "56",
+            "name": "Irán",
+            "alternativeName": "Irán",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Iran.svg"
+        },
+        {
+            "id": "57",
+            "name": "Israel",
+            "alternativeName": "Israel",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Israel.svg"
+        },
+        {
+            "id": "58",
+            "name": "Japón",
+            "alternativeName": "Japón",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Japon.svg"
+        },
+        {
+            "id": "59",
+            "name": "Jordania",
+            "alternativeName": "Jordania",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Jordania.svg"
+        },
+        {
+            "id": "60",
+            "name": "Kazajistán",
+            "alternativeName": "Kazajistán",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Kazajistan.svg"
+        },
+        {
+            "id": "61",
+            "name": "Kirguistán",
+            "alternativeName": "Kirguistán",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Kirguistan.svg"
+        },
+        {
+            "id": "62",
+            "name": "Kuwait",
+            "alternativeName": "Kuwait",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Kuwait.svg"
+        },
+        {
+            "id": "63",
+            "name": "Laos",
+            "alternativeName": "Laos",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Laos.svg"
+        },
+        {
+            "id": "64",
+            "name": "Líbano",
+            "alternativeName": "Líbano",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Libano.svg"
+        },
+        {
+            "id": "65",
+            "name": "Malasia",
+            "alternativeName": "Malasia",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Malasia.svg"
+        },
+        {
+            "id": "67",
+            "name": "Maldivas",
+            "alternativeName": "Maldivas",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Maldivas.svg"
+        },
+        {
+            "id": "68",
+            "name": "Mongolia",
+            "alternativeName": "Mongolia",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Mongolia.svg"
+        },
+        {
+            "id": "69",
+            "name": "Nepal",
+            "alternativeName": "Nepal",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Nepal.svg"
+        },
+        {
+            "id": "70",
+            "name": "Omán",
+            "alternativeName": "Omán",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Oman.svg"
+        },
+        {
+            "id": "71",
+            "name": "Pakistán",
+            "alternativeName": "Pakistán",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Pakistan.svg"
+        },
+        {
+            "id": "72",
+            "name": "Palestina",
+            "alternativeName": "Palestina",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Palestina-1.svg"
+        },
+        {
+            "id": "73",
+            "name": "Rusia",
+            "alternativeName": "Rusia",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Rusia.svg"
+        },
+        {
+            "id": "74",
+            "name": "Singapur",
+            "alternativeName": "Singapur",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/bandera-de-singapur.svg"
+        },
+        {
+            "id": "75",
+            "name": "Siria",
+            "alternativeName": "Siria",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Siria.svg"
+        },
+        {
+            "id": "76",
+            "name": "Sri Lanka",
+            "alternativeName": "Sri Lanka",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Sri-Lanka.svg"
+        },
+        {
+            "id": "77",
+            "name": "Tailandia",
+            "alternativeName": "Tailandia",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Tailandia.svg"
+        },
+        {
+            "id": "78",
+            "name": "Tayikistán",
+            "alternativeName": "Tayikistán",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Tayikistan.svg"
+        },
+        {
+            "id": "79",
+            "name": "Timor Oriental",
+            "alternativeName": "Timor Leste",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Timor-Leste.svg"
+        },
+        {
+            "id": "80",
+            "name": "Turkmenistán",
+            "alternativeName": "Turkmenistán",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Turkmenistan.svg"
+        },
+        {
+            "id": "81",
+            "name": "Turquía",
+            "alternativeName": "Turquía",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Turquia.svg"
+        },
+        {
+            "id": "82",
+            "name": "Uzbekistán",
+            "alternativeName": "Uzbekistán",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Uzbekistan.svg"
+        },
+        {
+            "id": "83",
+            "name": "Vietnam",
+            "alternativeName": "Vietnam",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Vietnam.svg"
+        },
+        {
+            "id": "84",
+            "name": "Yemen",
+            "alternativeName": "Yemen",
+            "flag": "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Yemen.svg"
+        }
+    ]
+}
