@@ -1,7 +1,7 @@
 const artBanderas = document.getElementById('artBanderas')
 
 const traerLocalstorageBanderas = () => {
-    const banderas = JSON.parse(localStorage.getItem("Países"))
+    const banderas = JSON.parse(localStorage.getItem("Paises"))
 
     console.log(banderas, "banderas desde localstorage")
 
@@ -9,32 +9,42 @@ const traerLocalstorageBanderas = () => {
 
 }
 
+
 const banderas = traerLocalstorageBanderas()
-banderas = [...banderas.America, ...banderas.Asia]
-console.log(banderas)
-// const paises = banderas.America
 
-// const maquetadoDeCards = (bandera) => 
-// {
-//     let card = document.createElement('div')
-//     let img = document.createElement('img')
-//     let input = document.createElement('input')
-//     let nombre = document.createElement('p')
+let arrAmerica = banderas.America
+let arrAsia = banderas.Asia
+
+let arrBanderas = arrAmerica.concat(arrAsia)
+
+
+const desordenarArreglo = (arreglo, max, indice) =>
+{
+  
+    const indexAleatorio = Math.floor(Math.random() * max)
+
+    let elementoAleatorio = arreglo[indexAleatorio]
     
-//     img.src = banderas.America[i].flag
-//     input.type = "text"
-
-//     card.appendChild(img)
-//     card.appendChild(input)
-//     artBanderas.appendChild(card)
-// }
-
-// const recorridoParaMaquetado = () => {
-//     console.log("Estoy funcionando")
-//     for (let i = 0; i < banderas.America.length; i++) {
+    arreglo[indexAleatorio] = arreglo[indice]
+    arreglo[indice] = elementoAleatorio
         
-//     }
 
-// }
+}
 
-// recorridoParaMaquetado()
+
+
+const recorrerArreglo = (arreglo) => {
+    console.log("Estoy funcionando  recorrido")
+
+    const max = arreglo.length
+    let j = 0
+
+    for (let i = 0; i < max; i++) {
+        desordenarArreglo(arreglo, max, i)
+    }
+    
+    
+}
+
+recorrerArreglo(arrBanderas)
+

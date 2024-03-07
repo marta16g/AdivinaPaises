@@ -1,13 +1,24 @@
+document.addEventListener('DOMContentLoaded', () => traerJsonBanderas())
+
+const existeKey = (clave) =>
+{
+    return localStorage.getItem(clave) !== null
+}
+
 const traerJsonBanderas = async () =>
 {
-    try {
+    if(!existeKey('Paises'))
+    {
+        try {
         const response = await fetch('../json/banderas.json')
         const banderas = await response.json()
         
-        localStorage.setItem("Países", JSON.stringify(banderas))
+        localStorage.setItem("Paises", JSON.stringify(banderas))
 
     } catch (error) {
         console.log(error, "<--- error al traer json")
     } 
+    }
+    
 } 
 
