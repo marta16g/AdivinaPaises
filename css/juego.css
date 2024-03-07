@@ -4,3 +4,25 @@
     box-sizing: border-box;
 }
 
+#artBanderas
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    row-gap: 1rem;
+}
+
+.imgBandera{
+    max-width: 10rem;
+}
+
+.cardBandera{
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+}
+
+.cardBandera input{
+    max-width: 10rem;
+}

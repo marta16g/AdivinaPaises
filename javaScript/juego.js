@@ -32,6 +32,22 @@ const desordenarArreglo = (arreglo, max, indice) =>
 }
 
 
+const maquetadoDeCards = (pais) => 
+{
+    let card = document.createElement('div')
+    let img = document.createElement('img')
+    let input = document.createElement('input')
+    
+    img.src = pais.flag
+    img.className = "imgBandera"
+    input.type = "text"
+
+    card.appendChild(img)
+    card.appendChild(input)
+    card.className = "cardBandera"
+    artBanderas.appendChild(card)
+}
+
 
 const recorrerArreglo = (arreglo) => {
     console.log("Estoy funcionando  recorrido")
@@ -42,7 +58,10 @@ const recorrerArreglo = (arreglo) => {
     for (let i = 0; i < max; i++) {
         desordenarArreglo(arreglo, max, i)
     }
-    
+    while (j < max) {
+        maquetadoDeCards(arreglo[j])
+        j++
+    }
     
 }
 
